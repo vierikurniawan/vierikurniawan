@@ -1,4 +1,3 @@
-<!--
 ## Hi there 👋, I'm Vieri Kurniawan
 
 ## 🎓 About Me  
@@ -12,4 +11,3 @@ I'm a fresh Mathematics graduate from Parahyangan Catholic University (UNPAR) wi
 ## 📫 Get in Touch  
 - **Email**: vieri8313@gmail.com  
 - **LinkedIn**: [linkedin.com/in/vierikurniawan](https://www.linkedin.com/in/vierikurniawan)
--->
