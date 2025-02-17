@@ -1,6 +1,4 @@
-## Hi there 👋, I'm Vieri Kurniawan
-
-## 🎓 About Me  
+## Hi there 👋, I'm Vieri Kurniawan 
 I'm a fresh Mathematics graduate from Parahyangan Catholic University (UNPAR) with a background in **data analytics**, **data visualization**, and **machine learning**.**.
 
 ## 🚀 What I Do  
